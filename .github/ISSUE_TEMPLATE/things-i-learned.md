@@ -7,5 +7,5 @@ assignees: ''
 
 ---
 
-I learned how to add, commit, and push on Git
+I learned how to pull request on Git
 
