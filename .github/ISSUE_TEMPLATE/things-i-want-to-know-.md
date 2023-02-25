@@ -1,12 +1,10 @@
 ---
-name: Master List
+name: 'Things I want to Know '
 about: Describe this issue template's purpose here.
 title: ''
-labels: Master List
+labels: Want to Know
 assignees: KaanIsmet
 
 ---
 
-Partner 1: Kaan Okul
-Partner 2: Allie
-Partner 3 Zach
+
