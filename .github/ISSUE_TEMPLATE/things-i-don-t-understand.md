@@ -4,8 +4,7 @@ about: This is for adding issues that you don't understand
 title: ''
 labels: Don't Understand
 assignees: ''
+=======
 
 ---
-I don't understand aws
-I don't understand anything 
-I don't understand github
+
