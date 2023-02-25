@@ -10,8 +10,9 @@ assignees: ''
 
 ---
 
-I don't understand <fill in what you don't here>
+I don't understand git
 12382
+hello 
 
 =======
 I don't understand devops
