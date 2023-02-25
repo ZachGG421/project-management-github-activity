@@ -6,6 +6,4 @@ title: 'Thing I want to know: <file in title> [Thing I want to Knows]'
 assignees: ''
 
 ---
-1. issue 1
-2. issue 2
-3. issue 3
+I want to know docker
