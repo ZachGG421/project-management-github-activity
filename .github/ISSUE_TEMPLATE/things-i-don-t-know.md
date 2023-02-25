@@ -1,8 +1,8 @@
 ---
-name: Master List
+name: Things I don't know
 about: Describe this issue template's purpose here.
 title: ''
-labels: Master List
+labels: I don't know
 assignees: ''
 
 ---
