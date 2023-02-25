@@ -7,11 +7,6 @@ labels: I want to know
 ---
 assignees: ''
 
----
-
-1. issue 1
-=======
-
 Please describe what you want to know in less than 255 characters.
 I want to know docker
 I want to know flask
@@ -21,6 +16,6 @@ I want to know docker
 I want to know git
 I want to webpack
 =======
-1. issue 1
-2. issue 2
-3. issue 3
+I want to learn docker 
+I want to learn automated tests 
+I want to know git
