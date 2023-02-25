@@ -2,7 +2,13 @@
 name: Things I want to know
 about: Describe this issue template's purpose here.
 title: 'Thing I want to know: <file in title> [Thing I want to Knows]'
+labels: I want to know
+=======
 ---
+assignees: ''
+
+---
+
 1. issue 1
 =======
 
@@ -11,11 +17,6 @@ I want to know docker
 I want to know flask
 I want to know machine learning
 =======
-
-assignees: ''
-
----
-
 I want to know docker
 I want to know git
 I want to webpack
