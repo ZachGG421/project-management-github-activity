@@ -9,3 +9,8 @@ assignees: ''
 
 I learned how to pull request on Git
 
+=======
+I learned how to use git, make a docker image, and python
+=======
+I learned Java
+I learned python
