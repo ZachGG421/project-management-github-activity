@@ -7,4 +7,4 @@ assignees: ''
 
 ---
 
-I want to master git
+I want to learn how to work in an agile workspace
