@@ -6,7 +6,3 @@ labels: Master List
 assignees: KaanIsmet
 
 ---
-
-Partner 1: Kaan Okul
-Partner 2: Allie
-Partner 3 Zach
