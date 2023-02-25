@@ -9,3 +9,6 @@ assignees: ''
 
 I learned how to add, commit, and push on Git
 2341
+=======
+I learned Java
+I learned python
